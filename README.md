@@ -12,6 +12,7 @@ Below are the list of all Courses I learned from Coursera!
 9. IBM Data Analyst Capstone Project
 
 #Exam Based Microsoft Azure Fundamentals Certificate (AZ-900)
+
 List of all Courses from Microsoft!
 1. Core Azure Concepts
 2. Core Azure Services
