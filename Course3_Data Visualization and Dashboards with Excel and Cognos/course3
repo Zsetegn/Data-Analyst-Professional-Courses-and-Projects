@@ -1,1 +1,154 @@
+In this lesson, you will be introduced to the basics of charts and the Excel functions that are used to create basic charts and pivot chart visualizations. At the end of this lesson you will:
 
+Understand how visualizations are able to tell a story with data
+Use Excel to create basic charts such as line charts and bar charts
+Create a pivot chart using Excel
+Differentiate between chart types
+Explain the difference between the functionalities and capabilities of each chart type
+Explain how to update data in a pivot table
+Identify the most commonly used chart
+Identify software programs that help highlight important information
+Explain the differences between a pivot chart and a table in Excel
+What is Data Visualization?
+
+Data visualization is a way to represent information graphically, highlighting patterns and trends in data and helping the reader to achieve quick insights. Also known as “interactive visual exploration,” it enables the exploration of data via manipulating chart images, with the color, brightness, size, shape, and motion of visual objects representing aspects of the dataset being analyzed. (Source: www.gartner.com(opens in a new tab))
+
+Why is Data Visualization important?
+
+Data visualization provides a quick and effective way to communicate information in a universal manner using visual information. The practice can also help businesses identify which factors affect customer behavior; pinpoint areas that need to be improved or need more attention; make data more memorable for stakeholders; understand when and where to place specific products; and predict sales volumes. 
+
+Types of Charts
+
+The more data, the better. Although, with tons of data piling up, it makes it impossible to read, understand or make any sense of it. Here is when data visualization comes into play. With the help of simple charts, we can quickly understand what the data is trying to say and also are able to derive meaningful insights. Let's look at some of the most important types of data.
+
+Line Chart (Image Source: www.datapine.com)
+Line Chart (Image Source: www.datapine.com(opens in a new tab))
+
+Line Chart
+
+A line chart, which is also called a line plot or line graph, uses points connected by line segments from left to right to demonstrate changes in value. The horizontal axis depicts a continuous progression, often that of time, while the vertical axis reports values for a metric of interest across that progression. 
+
+When to use: When you want to emphasize changes in values for one variable for continuous values of a second variable
+
+Bar chart
+
+A bar chart, also known as a bar graph, is a type of chart that uses rectangular bars to represent and compare data values. The length or height of each bar corresponds to the value of the data being displayed, making it easy to visualize and compare different data sets.
+
+In a bar chart, the x-axis typically represents the categories being compared, while the y-axis represents the values of the data being measured.
+
+When to use: To visualize discontinuous (or discrete) data or to show the relationship between a part to a whole. 
+
+Bar Chart (Image Source: www.mongodb.com)
+Bar Chart (Image Source: www.(opens in a new tab)mongodb.com(opens in a new tab))
+
+Grouped Column chart (Image Source: www.mongodb.com)
+Grouped Column chart (Image Source: www.mongodb.com(opens in a new tab))
+
+Column Chart
+
+A column chart, also known as a vertical bar chart, is a type of chart that uses vertical bars to represent and compare data values. 
+
+In a column chart, the x-axis typically represents the categories being compared, while the y-axis represents the values of the data being measured.
+
+When to use: To illustrate differences in sectional or timely data 
+
+Stacked Bar Chart
+
+A stacked bar chart, also known as a stacked column chart, is a type of chart that uses rectangular bars stacked on top of each other to represent and compare data values. 
+
+The x-axis of a stacked bar chart typically represents the categories being compared, while the y-axis represents the values of the data being measured.
+
+When to use: When you want to show how different parts contribute to a whole, or to compare sub-groups within a larger category.
+
+Stacked Bar Chart (Image Source: www.mongodb.com)
+Stacked Bar Chart (Image Source: www.mongodb.com(opens in a new tab))
+
+Different types of Pie Charts (Image Source: www.educba.com)
+Different types of Pie Charts (Image Source: www.educba.com(opens in a new tab))
+
+Pie Chart
+
+A pie chart is a type of chart that uses a circle divided into slices to represent and compare parts of a whole. Each slice of the pie represents a proportion or percentage of the total data set, and the size of each slice is proportional to the corresponding value.
+
+When to use: Pie charts are typically used to show how different categories or components contribute to a whole. 
+
+
+
+Tree Map
+
+A treemap chart is a type of chart that displays hierarchical data using nested rectangles. Each rectangle represents a category or sub-category of the data set, and the size of the rectangle corresponds to the value of the data being displayed. 
+
+The rectangles are arranged in a hierarchical structure, with larger rectangles representing higher-level categories and smaller rectangles representing lower-level sub-categories.
+
+When to use: Treemaps are helpful when visualizing a large number of related categories.
+
+
+
+Tree map (Image Source: www.theinformationlab.co.uk )  
+Tree map (Image Source: www.(opens in a new tab)theinformationlab.co.uk )  
+
+Bubble Chart (Image Source: www.chartio.com)
+Bubble Chart (Image Source: www.chartio.com(opens in a new tab))
+
+Bubble Chart
+
+A bubble chart is a type of chart that displays three dimensions of data using circles or bubbles. The horizontal and vertical positions of each bubble represent two variables, while the size of the bubble represents the value of a third variable. This allows for the visualization and comparison of three variables in a single chart.
+
+When to use: For displaying large data sets with three variables and for identifying trends or patterns within the data. 
+
+Scatter Plot
+
+A scatter plot is a type of chart that displays the relationship between two variables. The chart consists of a series of data points, each represented by a dot or symbol, that are plotted on a two-dimensional graph. The horizontal axis represents one variable and the vertical axis represents the other variable.
+
+When to use: Scatter plots are often used to identify patterns or trends in the data and to determine whether there is a correlation or relationship between the two variables. 
+
+Scatter Plot (Image Source: www.vizhub.com)
+Scatter Plot (Image Source: www.vizhub.com(opens in a new tab))
+
+Excel Chart Basics
+
+There are a few basic factors you need to know when creating charts using Excel. 
+
+Select the data that you want to visualize
+Insert the proper chart to present your data in Excel
+Change the title and the chart style accordingly
+Change the color palette to fit your needs
+Remember colors should be representative. Like red for cities with large numbers of COVID, green for areas free of COVID. Students grads (green=pass, red=fail, yellow=critical) and so on. 
+
+You should also be mindful of the accessibility requirements when choosing colors. You can always check for accessibility guidelines or use the accessibility checker before your publish or share your work to ensure that your visualizations are accessibility compliant. 
+
+Pivot Chart 
+
+A pivot chart is a visual way of presenting summarized data from a pivot table. It provides various options for representing data, such as bar charts, line charts, and pie charts, which make it simpler to detect patterns, trends, and outliers in the data.
+
+PAUSE AND THINK: You learnt how to create a Pivot Chart in the last course. Could you now list a few advantages of Pivot chart as a tool of visualization?
+
+Before we put our learning into practice with a few exercises, let's review if you remember the chart types that we learnt and when to use them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 10
+
+
+In the next lesson, we will practice a few visualization problems. Following that, we will learn about advanced charts in Excel and learn about Dashboards in Excel and Cognos.
