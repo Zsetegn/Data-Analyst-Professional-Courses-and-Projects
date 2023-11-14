@@ -13,7 +13,7 @@ Below are the list of all Courses I learned from Coursera!
 
 # Exam Based Microsoft Azure Fundamentals Certificate (AZ-900)
 
-List of all Courses from Microsoft!
+List of all Courses from I learned from Microsoft!
 1. Core Azure Concepts
 2. Core Azure Services
 3. Core solutions and Management Tools on Azure
