@@ -10,3 +10,12 @@ Below are the list of all Courses I learned from Coursera!
 7. Data Analysis with Python
 8. Data Visualization with Python
 9. IBM Data Analyst Capstone Project
+
+#Exam Based Microsoft Azure Fundamentals Certificate (AZ-900)
+1. Core Azure Concepts
+2. Core Azure Services
+3. Core solutions and Management Tools on Azure
+4. General Security and Network Security Features
+5. Identity, Governance, Privacy, and Compliance Features
+6. Azure Cost Management and Service Level Agreements
+
