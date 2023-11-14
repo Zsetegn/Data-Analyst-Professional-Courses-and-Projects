@@ -1,0 +1,1 @@
+This course presents a gentle introduction to the concepts of Data analysis. The course aims to give an understanding of the data ecosystem and help to differentiate between the roles of a Data Analyst, Data Scientist and Data Engineer.
