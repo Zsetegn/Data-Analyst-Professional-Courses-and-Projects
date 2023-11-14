@@ -23,4 +23,5 @@ Define “veracity” in the context of Big Data
 Explain the key use cases of Apache Spark
 Databases
 
+# Databases
 By now, you are aware of the fact that data gets stored in databases. There are two types of databases where the data can be stored: Relational databases (RDBMS) and non-relational databases. Let's see the basic difference both of these:
