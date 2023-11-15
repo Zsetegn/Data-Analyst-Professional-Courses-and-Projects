@@ -1,3 +1,4 @@
+# Excel Basics for Data Analysis
 An introduction to spreadsheets and loading data from multiple formats. One will learn to perform basic level data wrangling and continue to expand on analyzing data through the use of filtering, sorting, and using pivot tables.
 
 Excel is the most simple tool that allows analysis of data. It is an all-in-one data management software that allows you to easily import, explore, clean, analyze, and visualize your data. 
