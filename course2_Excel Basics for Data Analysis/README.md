@@ -1,0 +1,1 @@
+An introduction to spreadsheets and loading data from multiple formats. One will learn to perform basic level data wrangling and continue to expand on analyzing data through the use of filtering, sorting, and using pivot tables.
