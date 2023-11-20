@@ -11,11 +11,11 @@ Mute
 
 Settings
 cognitiveclass.ai logo
-Final Project Overview
+# Final Project Overview
 Analyzing the Impact of Recession on Automobile Sales
 You have been hired by XYZAutomotives as a data scientist. Your first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession. You will provide a number of charts/plots to visualize the data and make it easy for the directors to understand your analysis.
 
-Instructions for submission
+# Instructions for submission
 You will be required to upload images showing your plots or dashboards, for your peers to review and award points. For each task you will be directed to save your images locally with a specific name. We rcommend that you create a local folder and save all your images there for easy reference.
 
 At the end of each task, you are provided with the name to save your plot/chart image.
@@ -62,16 +62,16 @@ By examining various factors mentioned above from the dataset, you aim to gain i
 
 This Project will be completed in 3 Parts:
 
-Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
-Part 2: Create Dashboard using Plotly and Dash
-Part 3: Submit your project and evaluate your peers
-Part 1: Create visualizations using Matplotib, Seaborn & Folium
-Objective:
+# Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
+# Part 2: Create Dashboard using Plotly and Dash
+# Part 3: Submit your project and evaluate your peers
+# Part 1: Create visualizations using Matplotib, Seaborn & Folium
+# Objective:
 The objective of this part of the Final Assignment is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession.
 
 In this lab you will create visualizations using Matplotlib, Seaborn, Pandas.
 
-Tasks to be performed
+# Tasks to be performed
 TASK 1.1: Develop a Line chart using the functionality of pandas to show how automobile sales fluctuate from year to year.
 
 TASK 1.2: Plot different lines for categories of vehicle type and analyse the trend to answer the question “Is there a noticeable difference in sales trends between different vehicle types during recession periods?”
