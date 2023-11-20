@@ -49,9 +49,9 @@ By examining various factors mentioned above from the dataset, you aim to gain i
 
 This Project will be completed in 3 Parts:
 
-# Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
-# Part 2: Create Dashboard using Plotly and Dash
-# Part 3: Submit your project and evaluate your peers
+Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
+Part 2: Create Dashboard using Plotly and Dash
+Part 3: Submit your project and evaluate your peers
 # Part 1: Create visualizations using Matplotib, Seaborn & Folium
 # Objective:
 The objective of this part of the Final Assignment is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession.
