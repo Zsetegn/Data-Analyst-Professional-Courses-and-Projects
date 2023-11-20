@@ -29,7 +29,7 @@ recession period 6 - year 2020 -Feb to April (Covid-19 Impact)
 
 The data used in this lab has been artifically created for the purpose of this assignment only. No real data has been used.
 
-Data Description
+# Data Description
 The dataset includes the following variables:
 
 Date: The date of the observation.
