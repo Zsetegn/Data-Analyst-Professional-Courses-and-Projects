@@ -90,8 +90,8 @@ TASK 1.8: Develop a pie chart to display the total Advertisement expenditure for
 
 TASK 1.9: Develop a countplot to analyse the effect of the unemployment rate on vehicle type and sales during the Recession Period.
 
-Part 2: Create Dashboard using Plotly and Dash
-Objective:
+# Part 2: Create Dashboard using Plotly and Dash
+# Objective:
 The objective of this part of the Fnal assignment is to create dashboards to contain your plots and charts and to provide the directors with the ability to select a particular report or a period of time so they can discuss the data in detail.
 
 In this lab you will create dashboards using Dash and Plotly and then add user-interactions to your dashboards.
@@ -99,7 +99,7 @@ In this lab you will create dashboards using Dash and Plotly and then add user-i
 Creating dashboards and adding customizations to the dashboards
 The directors of XYZAutomobiles have requested a dashboard to be developed so they can drill into the data in more detail for specific years or by different categories. Your second task is to create a suitable dashboard and add in user interactions so that the directors can select the data they want to review without the need to request new plots.
 
-Tasks to be performed
+# Tasks to be performed
 TASK 2.1: Create a Dash application and give it a meaningful title.
 
 TASK 2.2:Add drop-down menus to your dashboard with appropriate titles and options.
@@ -112,7 +112,7 @@ TASK 2.5: Create and display graphs for Recession Report Statistics.
 
 TASK 2.6: Create and display graphs for Yearly Report Statistics.
 
-Part 3: Submit your project and evaluate your peers
+# Part 3: Submit your project and evaluate your peers
 Once you have completed the labs and saved all your files locally you will submit your assignment which will be graded by your peers who are also completing this course during the same session.
 
 Points will be awarded as follows for each task completed:
