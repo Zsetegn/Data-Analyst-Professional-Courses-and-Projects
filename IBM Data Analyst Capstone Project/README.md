@@ -43,8 +43,7 @@ Comparison
  Creation
 Dashboards
 # Building A Dashboard With Cognos Dashboard Embedded (My capstone project Dashboard)
-1. https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCurrent%2BTechnology%2BUsage&action=view&mode=dashboard&subView=model0000018c092375cf_00000000
-2. https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FFuture%2BTechnology%2BTrend&action=view&mode=dashboard&subView=model0000018c0951a38e_00000002
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FBuilding%2BA%2BDashboard%2BWith%2BCognos%2BDashboard%2BEmbedded&action=view&mode=dashboard&subView=model0000018c08e27786_00000000
 
 # Module 6: Presentation of Findings
 Final Presentation
