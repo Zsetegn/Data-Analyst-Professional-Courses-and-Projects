@@ -43,7 +43,9 @@ Comparison
  Creation
 Dashboards
 # My Dash board Links (IBM Cognos Analytics)
-https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCurrent%2BTechnology%2BUsage&action=view&mode=dashboard&subView=model0000018c092375cf_00000000
+1. https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCurrent%2BTechnology%2BUsage&action=view&mode=dashboard&subView=model0000018c092375cf_00000000
+https://us1.ca.analytics.ibm.com/bi/?
+2. perspective=dashboard&pathRef=.my_folders%2FFuture%2BTechnology%2BTrend&action=view&mode=dashboard&subView=model0000018c0951a38e_00000002
 
 # Module 6: Presentation of Findings
 Final Presentation
