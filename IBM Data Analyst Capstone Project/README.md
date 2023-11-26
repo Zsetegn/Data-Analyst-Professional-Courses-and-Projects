@@ -42,6 +42,8 @@ Comparison
 # Module 5: Dashboard
  Creation
 Dashboards
-
+# My Dash board Links
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCurrent%2BTechnology%2BUsage&action=view&mode=dashboard&subView=model0000018c092375cf_00000000
+1. 
 # Module 6: Presentation of Findings
 Final Presentation
