@@ -1,6 +1,6 @@
 # IBM Data Analyst Professional Certificate
 IBM Data Analyst Professional Certificate includes 10 courses covering the following topics:
-Below are the list of all Courses I learned from Coursera!
+Below are the list of all Courses I learned from this program!
 1. Introduction to Data Analytics
 2. Excel Basics for Data Analysis
 3. Data Visualization and Dashboards with Excel and Cognos
